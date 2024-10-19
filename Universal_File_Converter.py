@@ -45,7 +45,7 @@ if page == 'Introduction':
     # Image slider
     with st.expander("Preview Images"):
         image_list = [
-            'File converter 1.png',
+            'File converter.png',
             'File converter 2.jpg',
             'File converter 3.png',
         ]
